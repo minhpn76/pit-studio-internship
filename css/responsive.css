@@ -1,0 +1,411 @@
+@media (max-width: 767px) {
+    .content-result .avarta {
+        margin-bottom: 20px;
+    }
+
+    .content-result .avarta img {
+        max-width: 200px;
+    }
+
+    .content-result .desc p {
+        font-size: 18px;
+        margin-bottom: 30px;
+    }
+
+    .btn-apply a svg {
+        width: 30px;
+        height: 30px;
+    }
+
+    .content-result .desc a {
+        font-size: 22px;
+    }
+    .form-studio {
+        padding-top: 100px;
+    }
+
+    .title-main h1 {
+        font-size: 30px;
+        margin-bottom: 30px;
+    }
+
+    .title-form p img {
+        max-width: 30px;
+        margin-right: 10px;
+    }
+
+    .title-form {
+        font-size: 20px;
+        margin-bottom: 25px;
+    }
+
+    .cb-input_light input, .cb-input_light textarea {
+        font-size: 20px;
+        height: 45px;
+    }
+
+    .cb-input_light-box {
+        margin-bottom: 20px;
+    }
+
+    .cb-form-group {
+        margin-bottom: 30px;
+    }
+
+    .title-form span {
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .btn-form svg {
+        width: 30px;
+        margin-right: 10px;
+    }
+
+    .btn-form {
+        font-size: 23px;
+        padding-left: 0;
+    }
+
+    .list-form {
+        padding-bottom: 30px;
+    }
+
+    .tree .tree-1 {
+        display: none;
+    }
+
+    .tree .tree-2 {
+        width: 130px;
+        top: -130px;
+    }
+    .abs-flow {
+        display: none;
+    }
+    .tab-about {
+        padding: 24px;
+    }
+
+    .about-right .title h2 {
+        font-size: 20px;
+    }
+
+    .about-right .title {
+        margin-bottom: 25px;
+    }
+
+    .head-tabs {
+        margin-bottom: 20px;
+    }
+
+    .box-about {
+        padding: 30px 0;
+    }
+
+    .box-discover {
+        padding: 30px 0;
+    }
+
+    .title h3 {
+        font-size: 16px;
+    }
+
+    .title h2 {
+        font-size: 24px;
+        line-height: 1.5;
+    }
+
+    .box-discover .title {
+        margin-bottom: 25px;
+    }
+
+    html {
+        overflow-x: hidden;
+    }
+
+    .box-discover .col-md-4 {
+        padding: 7px 15px;
+    }
+
+    .slot-cover a {
+        font-size: 16px;
+    }
+
+    .list-discover {
+        margin-bottom: 25px;
+    }
+
+    .item-intro h3 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+
+    .item-intro .desc {
+        font-size: 14px;
+    }
+
+    .item-intro .desc p {
+        margin-bottom: 10px;
+    }
+
+    .box-intro {
+        padding: 30px 0;
+    }
+
+    .box-intership {
+        padding: 30px 0;
+    }
+
+    .inter-left {
+        font-size: 16px;
+        margin-bottom: 24px;
+    }
+
+    .txt-inter {
+        padding-left: 0;
+    }
+
+    .txt-inter h2 {
+        font-size: 32px;
+    }
+
+    .txt-inter .desc {
+        font-size: 14px;
+    }
+
+    .btn-start a {
+        height: 56px;
+        font-size: 18px;
+        font-weight: 600;
+    }
+
+    .txt-inter .head-tabs {
+        margin-bottom: 35px;
+    }
+    .box-banner .img-bn {
+        display: none;
+    }
+
+    .box-banner .img-main {
+        display: none;
+    }
+
+    .bn-mobile {
+        display: block !important;
+        width: 100%;
+    }
+
+    .box-banner .caption h1 {
+        font-size: 32px;
+        margin-bottom: 16px;
+    }
+
+    .btn-apply a {
+        font-size: 18px;
+    }
+
+    .btn-apply a svg {
+        margin-right: 10px;
+    }
+
+    .box-banner .caption {
+        padding-top: 30%;
+    }
+    .item-discover .avarta img {
+        opacity: 0;
+        display: none;
+    }
+    .item-discover .avarta lottie-player {
+        width: 100% !important;
+    }
+    .item-discover .avarta lottie-player {
+        top: -3px;
+        position: relative;
+    }
+}
+@media (max-width: 575px) {
+    .fter-top .txt.text-right {
+        text-align: left !important;
+        padding-top: 15px;
+    }
+    .fter-top {
+        margin-bottom: 8px;
+    }
+
+    .fter-bot li {
+        padding-right: 0;
+        display: block;
+        margin-bottom: 6px;
+    }
+
+    .fter-bot li:last-child {
+        margin-bottom: 0;
+    }
+    .scroll-mb .head-tabs {
+        width: max-content;
+    }
+
+    .scroll-mb {
+        overflow: auto;
+    }
+    .txt-about .head-tabs li {
+        margin-right: 40px;
+    }
+
+    .txt-about .head-tabs li:last-child {
+        margin-right: 0;
+    }
+}
+@media (max-width: 767px) and (min-width: 576px) {
+    .box-discover .col-md-4 {
+        padding: 12px;
+    }
+
+    body .container {
+        padding: 24px;
+    }
+}
+@media (max-width: 1023px) and (min-width: 768px) {
+    .content-result .desc p {
+        font-size: 30px;
+        margin-bottom: 45px;
+    }
+    .form-studio {
+        padding-top: 140px;
+    }
+
+    .title-main h1 {
+        margin-bottom: 50px;
+        font-size: 45px;
+    }
+
+    .title-form {
+        font-size: 28px;
+    }
+
+    .cb-input_light input, .cb-input_light textarea {
+        font-size: 25px;
+    }
+
+    .cb-input_light-box {
+        margin-bottom: 30px;
+    }
+
+    .cb-form-group {
+        margin-bottom: 60px;
+    }
+
+    .cb-input_light textarea {
+        height: 65px;
+    }
+
+    .btn-form {
+        font-size: 25px;
+    }
+    body .container {
+        padding: 0 80px;
+    }
+
+    html {
+        overflow-x: hidden;
+    }
+
+    .box-banner .caption h1 {
+        font-size: 40px;
+        max-width: 480px;
+    }
+
+    .tree .tree-2 {
+        max-width: 280px;
+        top: -260px;
+    }
+
+    .tree .tree-1 {
+        width: 150px;
+        top: -130px;
+    }
+    .title h2 {
+        font-size: 40px;
+    }
+
+    .list-discover .row {
+        margin: 0 -12px;
+    }
+
+    .list-discover .col-md-4 {
+        padding: 12px;
+        max-width: 50%;
+        flex: 0 0 50%;
+    }
+    .box-intro .row .col-md-6 {
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-bottom: 60px;
+    }
+
+    .item-intro {
+        max-width: 480px;
+    }
+
+    .box-intro .row .col-md-6:last-child {
+        margin-bottom: 0;
+    }
+
+    .box-intership .col-md-5 {
+        max-width: 100%;
+        flex: 0 0 100%;
+    }
+
+    .inter-left .avarta img {
+        width: 100%;
+    }
+
+    .inter-left {
+        margin-bottom: 40px;
+    }
+
+    .box-intership .col-md-7 {
+        max-width: 100%;
+        flex: 0 0 100%;
+    }
+
+    .txt-inter {
+        padding-left: 0;
+    }
+
+}
+
+@media (max-width: 1100px) and (min-width: 1024px) {
+    .box-intro .row .col-md-6 {
+        padding: 0 15px;
+    }
+
+    .box-intro .row {
+        margin: 0 -15px;
+    }
+
+    html {
+        overflow-x: hidden;
+    }
+
+    .tree .tree-2 {
+        top: -350px;
+    }
+
+    .box-banner .caption h1 {
+        font-size: 45px;
+        margin-bottom: 30px;
+    }
+
+    body .container {
+        padding: 0 60px;
+    }
+
+    .txt-inter {
+        padding-left: 0;
+    }
+
+    .txt-inter h2 {
+        font-size: 40px;
+    }
+}
